@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ejercicio2_Apartado1.Maquina">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAAAABAAAAABAAAAAQAAABACAAEAAAAAEAAQAA=</HashCode>
+      <FileName>Maquina.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="productos" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Ejercicio2_Apartado1.Producto">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAACAAAACEAAgAAAAACIBAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

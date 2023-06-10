@@ -1,0 +1,30 @@
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\bin\Debug\net6.0\Ejercicio1.exe
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\bin\Debug\net6.0\Ejercicio1.deps.json
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\bin\Debug\net6.0\Ejercicio1.runtimeconfig.json
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\bin\Debug\net6.0\Ejercicio1.dll
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\bin\Debug\net6.0\Ejercicio1.pdb
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.AssemblyReference.cache
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfoInputs.cache
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfo.cs
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.dll
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\refint\Ejercicio1.dll
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.pdb
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.genruntimeconfig.cache
+D:\PRO - 1ºA DAW\VisualStudio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\ref\Ejercicio1.dll
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\bin\Debug\net6.0\Ejercicio1.exe
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\bin\Debug\net6.0\Ejercicio1.deps.json
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\bin\Debug\net6.0\Ejercicio1.runtimeconfig.json
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\bin\Debug\net6.0\Ejercicio1.dll
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\bin\Debug\net6.0\Ejercicio1.pdb
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.AssemblyReference.cache
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfoInputs.cache
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfo.cs
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.CoreCompileInputs.cache
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.dll
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\refint\Ejercicio1.dll
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.pdb
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\Ejercicio1.genruntimeconfig.cache
+Z:\Visual Studio\EjerciciosObjetos2\Ejercicio1\obj\Debug\net6.0\ref\Ejercicio1.dll
